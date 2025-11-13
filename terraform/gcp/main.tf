@@ -6,7 +6,7 @@ terraform {
     }
   }
   backend "gcs" {
-    bucket = "dev-cluster-tf-state-982bvuld"
+    bucket = "dev-cluster-tf-state-e21ee3hj"
     prefix = "infrastructure/state"
   }
 }
